@@ -5,7 +5,7 @@ tagline: Pingvin Shares
 icon: https://marcias.pl/umbrel/nodered.png
 category: marciasmedia
 version: "free"
-port: 3000
+port: 8443
 description: >-
   Add your app's description here.
 
