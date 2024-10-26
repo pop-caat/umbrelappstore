@@ -1,11 +1,11 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
+id: crafty-controller
+name: Crafty controller
+tagline: Minecraft server manager
+icon: https://gitlab.com/uploads/-/system/project/avatar/29382408/Crafty_4-0_Logo_square.png
 category: Development
 version: "1.0.0"
-port: 4000
+port: 8443
 description: >-
   Add your app's description here.
 
@@ -19,11 +19,9 @@ submission: https://github.com/getumbrel/umbrel-hello-world-app
 repo: https://github.com/getumbrel/umbrel-hello-world-app
 support: https://github.com/getumbrel/umbrel-hello-world-app/issues
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://wiki.craftycontrol.com/uploads/en/crafty%204%20dashboard%20with%20one%20server.jpeg
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+  idk
 dependencies: []
 path: ""
 defaultUsername: ""
