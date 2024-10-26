@@ -1,27 +1,29 @@
 manifestVersion: 1
-id: crafty-controller
-name: Crafty controller
-tagline: Minecraft server manager
-icon: https://gitlab.com/uploads/-/system/project/avatar/29382408/Crafty_4-0_Logo_square.png
-category: Development
-version: "1.0.0"
-port: 8443
+id: marcias-pingvin
+name: Web Shares Files
+tagline: Pingvin Shares
+icon: https://marcias.pl/umbrel/nodered.png
+category: marciasmedia
+version: "free"
+port: 3000
 description: >-
-  Minecraft server
+  Add your app's description here.
 
 
   You can also add newlines!
 
-developer: someone
-website: https://umbrel.com
+developer: drjp81
+website: https://hub.docker.com/r/drjp81/nodered
 submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+submission: https://github.com/usememos/memos
+repo: https://hub.docker.com/r/drjp81/nodered
+support: https://hub.docker.com/r/drjp81/nodered
 gallery:
-  - https://wiki.craftycontrol.com/uploads/en/crafty%204%20dashboard%20with%20one%20server.jpeg
+  - http://marcias.pl/umbrel/nodered-gallery-1.jpg
+  - http://marcias.pl/umbrel/nodered-gallery-2.jpg
+  - http://marcias.pl/umbrel/nodered-gallery-3.jpg
 releaseNotes: >-
-  idk
+  Add what's new in the latest version of your app here.
 dependencies: []
 path: ""
 defaultUsername: ""
